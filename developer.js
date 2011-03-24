@@ -1,19 +1,10 @@
 {
-    // This is what name you want your ROMs to show up under.
-    developer: "CyanogenMod",
-    // Your id. This should have no spaces or other funny characters.
-    // This would ideally be your Github id, so when you send me your manifest
-    // I can verify who you are. But it can be anything really.
-    id: "cyanogen",
-    // The display summary. Two lines max.
-    summary: "Mods and bacon for Dream, Sapphire, Droid, and Nexus One",
-    // The location of the developer's manifest.
-    manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
-    // The list of devices that this developer's ROMs support.
-    // If you don't support a device, just don't list it!
+    developer: "HTC EVO 4G Stock",
+    id: "drmacinyasha",
+    summary: "100% stock, rooted ROMs for your EVO",
+    manifest: "http://drmacinyasha.github.com/EVO-Stock-RM-Manifest/manifest.js",
     roms:
     {
-        sholes: true,
-        passion: true
+        supersonic: true
     }
 }
