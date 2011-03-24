@@ -1,7 +1,7 @@
 {
     developer: "HTC EVO 4G Stock",
     id: "drmacinyasha",
-    summary: "100% stock, rooted ROMs for your EVO",
+    summary: "Rooted stock ROMs, Radio, HBOOT, WiMAX, PRI, and NV updates for your EVO",
     manifest: "http://drmacinyasha.github.com/EVO-Stock-RM-Manifest/manifest.js",
     roms:
     {
