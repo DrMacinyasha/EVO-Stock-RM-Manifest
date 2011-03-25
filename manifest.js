@@ -57,15 +57,6 @@
         incremental: 0030266510060,
         url: "http://goo-inside.me/supersonic/stock/3.30.651.3-rooted-odexed-signed-xxbabiboi228xx.zip"
     },
-    // Combos
-    {
-        name: "Combo 2.15.00.11.19/27167_R01/1.90_003",
-        summary: "Needs S-OFF! Can brick if used wrong! Updates the Radio/WiMAX/PRI+NV",
-        device: "supersonic",
-        product: "SupersonicCombo",
-        incremental: 0001,
-        url: ""
-    },
     // Radios
     {
         name: "Radio 2.15.00.11.19",
