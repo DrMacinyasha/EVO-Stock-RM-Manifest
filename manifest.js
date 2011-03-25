@@ -1,6 +1,6 @@
 {
     version: 1,
-    homepage: "http://www.goo-inside.me/supersonic/",
+    homepage: "http://goo-inside.me/supersonic/",
     donate: "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KNWA22ZGW32VS",
     roms:
     [
