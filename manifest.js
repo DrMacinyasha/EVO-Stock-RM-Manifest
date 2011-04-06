@@ -57,8 +57,16 @@
         "url": "http://goo-inside.me/supersonic/stock/3.30.651.3-rooted-odexed-signed-xxbabiboi228xx.zip"
     },
     {
+        "name": "Combo Radio 2.15.00.11.19",
+        "summary": "Also updates WiMAX 27167 R01, PRI and NV 1.90_003. From Calkulin",
+        "device": "supersonic",
+        "product": "SupersonicCombo",
+        "incremental": "0215001119",
+        "url": "http://goo-inside.me/supersonic/radios/EVO_Radio_2.15.00.11.19_WiMAX_27167_R01_PRI_NV_1.90_003.zip"
+    },
+    {
         "name": "Radio 2.15.00.11.19",
-        "summary": "Can brick if used wrong! From Calkulin",
+        "summary": "Can brick if used wrong! Incompatible (for now) with ClockworkMod 3.0. From Calkulin",
         "device": "supersonic",
         "product": "SupersonicRadio",
         "incremental": "0215001119",
