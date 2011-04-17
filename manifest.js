@@ -6,7 +6,7 @@
     [
     {
         "name": "Stock 3.70.651.1 Deodexed",
-        "summary": "Rooted, zipaligned, busybox, from teshxx. Incompatible with ClockworkMod 3.0.",
+        "summary": "Rooted, zipaligned, busybox, from teshxx\nIncompatible with ClockworkMod 3.0",
         "device": "supersonic",
         "product": "SupersonicStock",
         "incremental": "0030706510011",
@@ -20,7 +20,7 @@
     },
     {
         "name": "Stock 3.70.651.1 Odexed",
-        "summary": "Rooted, zipaligned, busybox, from teshxx. Incompatible with ClockworkMod 3.0.",
+        "summary": "Rooted, zipaligned, busybox, from teshxx\nIncompatible with ClockworkMod 3.0.",
         "device": "supersonic",
         "product": "SupersonicStock",
         "incremental": "0030706510010",
@@ -34,7 +34,7 @@
     },
     {
         "name": "Stock 3.30.651.3 Deodexed",
-        "summary": "Rooted, zipaligned, busybox, from xxbabiboi228xx. Incompatible with ClockworkMod 3.0.",
+        "summary": "Rooted, zipaligned, busybox, from xxbabiboi228xx\nIncompatible with ClockworkMod 3.0.",
         "device": "supersonic",
         "product": "SupersonicStock",
         "incremental": "0030306510031",
@@ -42,7 +42,7 @@
     },
     {
         "name": "Stock 3.30.651.3 Odexed",
-        "summary": "Rooted, zipaligned, busybox, from xxbabiboi228xx. Incompatible with ClockworkMod 3.0.",
+        "summary": "Rooted, zipaligned, busybox, from xxbabiboi228xx\nIncompatible with ClockworkMod 3.0.",
         "device": "supersonic",
         "product": "SupersonicStock",
         "incremental": "0030306510030",
@@ -50,7 +50,7 @@
     },
     {
         "name": "Stock 3.26.651.6 Odexed",
-        "summary": "Rooted, from netarchy. Incompatible with ClockworkMod 3.0.",
+        "summary": "Rooted, from netarchy\nIncompatible with ClockworkMod 3.0.",
         "device": "supersonic",
         "product": "SupersonicStock",
         "incremental": "0030266510060",
@@ -66,7 +66,7 @@
     },
     {
         "name": "Radio 2.15.00.11.19",
-        "summary": "Can brick if used wrong! From Calkulin. Incompatible with ClockworkMod 3.0.",
+        "summary": "Can brick if used wrong! From Calkulin\nIncompatible with ClockworkMod 3.0.",
         "device": "supersonic",
         "product": "SupersonicRadio",
         "incremental": "0215001119",
@@ -74,7 +74,7 @@
     },
     {
         "name": "Radio 2.15.00.09.01",
-        "summary": "Can brick if used wrong! From Calkulin. Incompatible with ClockworkMod 3.0.",
+        "summary": "Can brick if used wrong! From Calkulin\nIncompatible with ClockworkMod 3.0.",
         "device": "supersonic",
         "product": "SupersonicRadio",
         "incremental": "0215001119",
@@ -82,7 +82,7 @@
     },
     {
         "name": "Radio 2.15.00.07.28",
-        "summary": "Can brick if used wrong! From Calkulin. Incompatible with ClockworkMod 3.0.",
+        "summary": "Can brick if used wrong! From Calkulin\nIncompatible with ClockworkMod 3.0.",
         "device": "supersonic",
         "product": "SupersonicRadio",
         "incremental": "0215000728",
@@ -90,7 +90,7 @@
     },
     {
         "name": "Radio 2.15.00.07.21",
-        "summary": "Can brick if used wrong! From Calkulin. Incompatible with ClockworkMod 3.0.",
+        "summary": "Can brick if used wrong! From Calkulin\nIncompatible with ClockworkMod 3.0.",
         "device": "supersonic",
         "product": "SupersonicRadio",
         "incremental": "0215000721",
@@ -98,7 +98,7 @@
     },
     {
         "name": "Radio 2.05.00.06.10",
-        "summary": "Can brick if used wrong! From Calkulin. Incompatible with ClockworkMod 3.0.",
+        "summary": "Can brick if used wrong! From Calkulin\nIncompatible with ClockworkMod 3.0.",
         "device": "supersonic",
         "product": "SupersonicRadio",
         "incremental": "0205000610",
@@ -106,7 +106,7 @@
     },
     {
         "name": "Radio 1.39.00.05.31",
-        "summary": "Can brick if used wrong! From Calkulin. Incompatible with ClockworkMod 3.0.",
+        "summary": "Can brick if used wrong! From Calkulin\nIncompatible with ClockworkMod 3.0.",
         "device": "supersonic",
         "product": "SupersonicRadio",
         "incremental": "0139000531",
@@ -114,7 +114,7 @@
     },
     {
         "name": "Radio 1.36.00.04.02",
-        "summary": "Can brick if used wrong! From Calkulin. Incompatible with ClockworkMod 3.0.",
+        "summary": "Can brick if used wrong! From Calkulin\nIncompatible with ClockworkMod 3.0.",
         "device": "supersonic",
         "product": "SupersonicRadio",
         "incremental": "0136000402",
