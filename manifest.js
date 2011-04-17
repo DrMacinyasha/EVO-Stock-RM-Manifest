@@ -122,7 +122,7 @@
     },
     {
         "name": "WiMAX 27167 R01",
-        "summary": "Needs S-OFF! Can brick if used wrong! From Calkulin",
+        "summary": "Needs S-OFF! Can brick if used wrong!\nFrom Calkulin",
         "device": "supersonic",
         "product": "SupersonicWiMAX",
         "incremental": "2716701",
@@ -130,7 +130,7 @@
     },
     {
         "name": "WiMAX 26023 R01",
-        "summary": "Needs S-OFF! Can brick if used wrong! From Calkulin",
+        "summary": "Needs S-OFF! Can brick if used wrong!\nFrom Calkulin",
         "device": "supersonic",
         "product": "SupersonicWiMAX",
         "incremental": "2602301",
@@ -138,7 +138,7 @@
     },
     {
         "name": "WiMAX 25641 R01",
-        "summary": "Needs S-OFF! Can brick if used wrong! From Calkulin",
+        "summary": "Needs S-OFF! Can brick if used wrong!\nFrom Calkulin",
         "device": "supersonic",
         "product": "SupersonicWiMAX",
         "incremental": "2564101",
@@ -146,7 +146,7 @@
     },
     {
         "name": "WiMAX 25043 R01",
-        "summary": "Needs S-OFF! Can brick if used wrong! From Calkulin",
+        "summary": "Needs S-OFF! Can brick if used wrong!\nFrom Calkulin",
         "device": "supersonic",
         "product": "SupersonicWiMAX",
         "incremental": "2504301",
@@ -154,7 +154,7 @@
     },
     {
         "name": "WiMAX 24722",
-        "summary": "Needs S-OFF! Can brick if used wrong! From Calkulin",
+        "summary": "Needs S-OFF! Can brick if used wrong!\nFrom Calkulin",
         "device": "supersonic",
         "product": "SupersonicWiMAX",
         "incremental": "2472200",
@@ -162,7 +162,7 @@
     },
     {
         "name": "PRI 1.90_003",
-        "summary": "Needs S-OFF! Can brick if used wrong! From Calkulin",
+        "summary": "Needs S-OFF! Can brick if used wrong!\nFrom Calkulin",
         "device": "supersonic",
         "product": "SupersonicPRI",
         "incremental": "0190003",
@@ -170,7 +170,7 @@
     },
     {
         "name": "PRI 1.77_003",
-        "summary": "Needs S-OFF! Can brick if used wrong! From Calkulin",
+        "summary": "Needs S-OFF! Can brick if used wrong!\nFrom Calkulin",
         "device": "supersonic",
         "product": "SupersonicPRI",
         "incremental": "0177003",
@@ -178,7 +178,7 @@
     },
     {
         "name": "PRI 1.34_003",
-        "summary": "Needs S-OFF! Can brick if used wrong! From Calkulin",
+        "summary": "Needs S-OFF! Can brick if used wrong!\nFrom Calkulin",
         "device": "supersonic",
         "product": "SupersonicPRI",
         "incremental": "0134003",
@@ -186,7 +186,7 @@
     },
     {
         "name": "NV 1.90_003",
-        "summary": "Needs S-OFF! Can brick if used wrong! From Calkulin",
+        "summary": "Needs S-OFF! Can brick if used wrong!\nFrom Calkulin",
         "device": "supersonic",
         "product": "SupersonicNV",
         "incremental": "0190003",
@@ -194,7 +194,7 @@
     },
     {
         "name": "NV 1.77_003",
-        "summary": "Needs S-OFF! Can brick if used wrong! From Calkulin",
+        "summary": "Needs S-OFF! Can brick if used wrong!\nFrom Calkulin",
         "device": "supersonic",
         "product": "SupersonicNV",
         "incremental": "0177003",
@@ -202,7 +202,7 @@
     },
     {
         "name": "NV 1.71_003",
-        "summary": "Needs S-OFF! Can brick if used wrong! From Calkulin",
+        "summary": "Needs S-OFF! Can brick if used wrong!\nFrom Calkulin",
         "device": "supersonic",
         "product": "SupersonicNV",
         "incremental": "0171003",
@@ -210,7 +210,7 @@
     },
     {
         "name": "NV 1.40_003",
-        "summary": "Needs S-OFF! Can brick if used wrong! From Calkulin",
+        "summary": "Needs S-OFF! Can brick if used wrong!\nFrom Calkulin",
         "device": "supersonic",
         "product": "SupersonicNV",
         "incremental": "0140003",
@@ -218,7 +218,7 @@
     },
     {
         "name": "ENG Hboot 0.76.2000",
-        "summary": "Recommended, supports Fastboot, can brick if used wrong! From Calkulin",
+        "summary": "Supports Fastboot, can brick if used wrong!\nFrom Calkulin",
         "device": "supersonic",
         "product": "SupersonicHboot",
         "incremental": "99999999",
@@ -226,7 +226,7 @@
     },
     {
         "name": "Hboot 2.10.0001",
-        "summary": "Can brick if used wrong! From Calkulin",
+        "summary": "Can brick if used wrong!\nFrom Calkulin",
         "device": "supersonic",
         "product": "SupersonicHboot",
         "incremental": "02100001",
@@ -234,7 +234,7 @@
     },
     {
         "name": "Hboot 2.02.0000",
-        "summary": "Can brick if used wrong! From Calkulin",
+        "summary": "Can brick if used wrong!\nFrom Calkulin",
         "device": "supersonic",
         "product": "SupersonicHboot",
         "incremental": "02020000",
@@ -242,7 +242,7 @@
     },
     {
         "name": "Hboot 0.97.0000",
-        "summary": "Can brick if used wrong! From Calkulin",
+        "summary": "Can brick if used wrong!\nFrom Calkulin",
         "device": "supersonic",
         "product": "SupersonicHboot",
         "incremental": "00970000",
@@ -250,7 +250,7 @@
     },
     {
         "name": "Hboot 0.93.0000",
-        "summary": "Can brick if used wrong! From Calkulin",
+        "summary": "Can brick if used wrong!\nFrom Calkulin",
         "device": "supersonic",
         "product": "SupersonicHboot",
         "incremental": "00930000",
