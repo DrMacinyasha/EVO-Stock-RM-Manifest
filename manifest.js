@@ -8,7 +8,7 @@
             "summary": "Rooted, zipaligned, busybox, from teshxx\nIncompatible with ClockworkMod 3.0",
             "device": "supersonic",
             "product": "SupersonicStock",
-            "modversion": "Supersonic-3.70.651.1-Deodexed",
+            "modversion": "Supersonic-3.70.651.1-Deodexed-old",
             "incremental": "0030706510011",
             "screenshots": [
                 "http://goo-inside.me/supersonic/stock/screenshots/003070651001-1.png",
@@ -22,7 +22,7 @@
             "summary": "Rooted, zipaligned, busybox, from teshxx\nIncompatible with ClockworkMod 3.0",
             "device": "supersonic",
             "product": "SupersonicStock",
-            "modversion": "Supersonic-3.70.651.1-Odexed",
+            "modversion": "Supersonic-3.70.651.1-Odexed-old",
             "incremental": "0030706510010",
             "screenshots": [
                 "http://goo-inside.me/supersonic/stock/screenshots/003070651001-1.png",
@@ -282,6 +282,48 @@
             "modversion": "Supersonic-0.93.0000-HBOOT",
             "incremental": "00930000",
             "url": "http://goo-inside.me/supersonic/hboot/EVO_HBoot_0.93.0000.zip" 
+        },
+        {
+            "name": "Stock 3.70.651.1 Updated EXPERIMENTAL",
+            "summary": "Rooted, zipaligned, busybox, updated apps\nDO NOT FLASH THIS RIGHT NOW!",
+            "device": "supersonic",
+            "product": "SupersonicStock",
+            "modversion": "Supersonic-3.70.651.1-Updated",
+            "incremental": "0030706510014",
+            "screenshots": [
+                "http://goo-inside.me/supersonic/stock/screenshots/003070651001-1.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/003070651001-2.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/003070651001-3.png" 
+            ],
+            "url": "http://goo-inside.me/supersonic/stock/experimental/3.70.651.1-rooted-updated-signed.zip" 
+        },
+        {
+            "name": "Stock 3.70.651.1 Deodexed EXPERIMENTAL",
+            "summary": "Rooted, zipaligned, busybox\nDO NOT FLASH THIS RIGHT NOW!",
+            "device": "supersonic",
+            "product": "SupersonicStock",
+            "modversion": "Supersonic-3.70.651.1-Deodexed",
+            "incremental": "0030706510013",
+            "screenshots": [
+                "http://goo-inside.me/supersonic/stock/screenshots/003070651001-1.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/003070651001-2.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/003070651001-3.png" 
+            ],
+            "url": "http://goo-inside.me/supersonic/stock/experimental/3.70.651.1-rooted-deodexed-signed.zip" 
+        },
+        {
+            "name": "Stock 3.70.651.1 Odexed EXPERIMENTAL",
+            "summary": "Rooted, zipaligned, busybox\nDO NOT FLASH THIS RIGHT NOW!",
+            "device": "supersonic",
+            "product": "SupersonicStock",
+            "modversion": "Supersonic-3.70.651.1-Odexed",
+            "incremental": "0030706510012",
+            "screenshots": [
+                "http://goo-inside.me/supersonic/stock/screenshots/003070651001-1.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/003070651001-2.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/003070651001-3.png" 
+            ],
+            "url": "http://goo-inside.me/supersonic/stock/experimental/3.70.651.1-rooted-odexed-signed.zip" 
         } 
     ]
 }
