@@ -5,7 +5,7 @@
     "roms": [
         {
             "name": "Stock 3.70.651.1 Deodexed",
-            "summary": "Rooted, zipaligned, busybox",
+            "summary": "Rooted, zipaligned, busybox\nMake sure to un-check Wipe Dalvik Cache! (Known bug)",
             "device": "supersonic",
             "product": "SupersonicStock",
             "modversion": "Supersonic-3.70.651.1-Deodexed",
@@ -19,7 +19,7 @@
         },
         {
             "name": "Stock 3.70.651.1 Odexed",
-            "summary": "Rooted, zipaligned, busybox",
+            "summary": "Rooted, zipaligned, busybox\nMake sure to un-check Wipe Dalvik Cache! (Known bug)",
             "device": "supersonic",
             "product": "SupersonicStock",
             "modversion": "Supersonic-3.70.651.1-Odexed",
