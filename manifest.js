@@ -282,17 +282,6 @@
             "modversion": "Supersonic-0.93.0000-HBOOT",
             "incremental": "00930000",
             "url": "http://goo-inside.me/supersonic/hboot/EVO_HBoot_0.93.0000.zip" 
-        }, 
-        {
-            "name": "Testingamajaro",
-            "summary": "This is not the download you are looking for. Move along.",
-            "device": "supersonic",
-            "screenshots": [
-                "http://dev.goo-inside.me/supersonic/stock/screenshots/003070651001-1.png",
-                "http://dev.goo-inside.me/supersonic/stock/screenshots/003070651001-2.png",
-                "http://dev.goo-inside.me/supersonic/stock/screenshots/003070651001-3.png" 
-            ],
-            "url": "http://dev.goo-inside.me/supersonic/stock/3.70.651.1-deodexed-signed.zip" 
-        }
+        } 
     ]
 }
