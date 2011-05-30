@@ -5,7 +5,7 @@
     "roms": [
         {
             "name": "Stock 3.70.651.1 Deodexed",
-            "summary": "Rooted, zipaligned, busybox\nMake sure to un-check Wipe Dalvik Cache! (Known bug)",
+            "summary": "Rooted, zipaligned, busybox",
             "device": "supersonic",
             "product": "SupersonicStock",
             "modversion": "Supersonic-3.70.651.1-Deodexed",
@@ -15,11 +15,11 @@
                 "http://goo-inside.me/supersonic/stock/screenshots/003070651001-2.png",
                 "http://goo-inside.me/supersonic/stock/screenshots/003070651001-3.png" 
             ],
-            "url": "http://goo-inside.me/supersonic/stock/3.70.651.1-deodexed-signed.zip" 
+            "url": "http://goo-inside.me/supersonic/stock/3.70.651.1-deodex-signed.zip" 
         },
         {
             "name": "Stock 3.70.651.1 Odexed",
-            "summary": "Rooted, zipaligned, busybox\nMake sure to un-check Wipe Dalvik Cache! (Known bug)",
+            "summary": "Rooted, zipaligned, busybox",
             "device": "supersonic",
             "product": "SupersonicStock",
             "modversion": "Supersonic-3.70.651.1-Odexed",
@@ -29,7 +29,7 @@
                 "http://goo-inside.me/supersonic/stock/screenshots/003070651001-2.png",
                 "http://goo-inside.me/supersonic/stock/screenshots/003070651001-3.png" 
             ],
-            "url": "http://goo-inside.me/supersonic/stock/3.70.651.1-odexed-signed.zip" 
+            "url": "http://goo-inside.me/supersonic/stock/3.70.651.1-odex-signed.zip" 
         },
         {
             "name": "Stock 3.30.651.3 Deodexed",
