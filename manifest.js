@@ -5,7 +5,7 @@
     "roms": [
         {
             "name": "Stock 3.70.651.1 Deodexed",
-            "summary": "Rooted, zipaligned, busybox",
+            "summary": "Rooted, zipaligned, busybox\nDeodexed is needed to flash themes, easier to tweak",
             "device": "supersonic",
             "product": "SupersonicStock",
             "modversion": "Supersonic-3.70.651.1-Deodexed",
@@ -18,7 +18,7 @@
         },
         {
             "name": "Stock 3.70.651.1 Odexed",
-            "summary": "Rooted, zipaligned, busybox",
+            "summary": "Rooted, zipaligned, busybox\nMuch harder to theme or tweak compared to deodexed",
             "device": "supersonic",
             "product": "SupersonicStock",
             "modversion": "Supersonic-3.70.651.1-Odexed",
