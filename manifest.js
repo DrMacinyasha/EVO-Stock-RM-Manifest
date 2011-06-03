@@ -4,32 +4,6 @@
     "donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KNWA22ZGW32VS",
     "roms": [
         {
-            "name": "Stock 4.22.651.2 Deodexed",
-            "summary": "Rooted, zipaligned, busybox\u000aDeodexed is needed to flash themes, easier to tweak",
-            "device": "supersonic",
-            "product": "SupersonicStock",
-            "modversion": "Supersonic-4.22.651.2-Deodexed",
-            "screenshots": [
-                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-1.png",
-                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-2.png",
-                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-3.png"
-            ],
-            "url": "http://goo-inside.me/supersonic/stock/4.22.651.2-deodex-signed.zip"
-        },
-        {
-            "name": "Stock 4.22.651.2 Odexed",
-            "summary": "Rooted, busybox",
-            "device": "supersonic",
-            "product": "SupersonicStock",
-            "modversion": "Supersonic-4.22.651.2-Odexed",
-            "screenshots": [
-                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-1.png",
-                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-2.png",
-                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-3.png"
-            ],
-            "url": "http://goo-inside.me/supersonic/stock/4.22.651.2-odex-signed.zip"
-        },
-        {
             "name": "Stock 3.70.651.1 Deodexed",
             "summary": "Rooted, zipaligned, busybox\u000aDeodexed is needed to flash themes, easier to tweak",
             "device": "supersonic",
