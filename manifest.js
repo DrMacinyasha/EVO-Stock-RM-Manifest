@@ -4,8 +4,34 @@
     "donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KNWA22ZGW32VS",
     "roms": [
         {
+            "name": "Stock 4.22.651.2 Deodexed",
+            "summary": "Rooted, zipaligned, busybox\u000aDeodexed is needed to flash themes, easier to tweak",
+            "device": "supersonic",
+            "product": "SupersonicStock",
+            "modversion": "Supersonic-4.22.651.2-Deodexed",
+            "screenshots": [
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-1.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-2.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-3.png"
+            ],
+            "url": "http://goo-inside.me/supersonic/stock/4.22.651.2-deodex-signed.zip"
+        },
+        {
+            "name": "Stock 4.22.651.2 Odexed",
+            "summary": "Rooted, busybox",
+            "device": "supersonic",
+            "product": "SupersonicStock",
+            "modversion": "Supersonic-4.22.651.2-Odexed",
+            "screenshots": [
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-1.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-2.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-3.png"
+            ],
+            "url": "http://goo-inside.me/supersonic/stock/4.22.651.2-odex-signed.zip"
+        },
+        {
             "name": "Stock 3.70.651.1 Deodexed",
-            "summary": "Rooted, zipaligned, busybox\nDeodexed is needed to flash themes, easier to tweak",
+            "summary": "Rooted, zipaligned, busybox\u000aDeodexed is needed to flash themes, easier to tweak",
             "device": "supersonic",
             "product": "SupersonicStock",
             "modversion": "Supersonic-3.70.651.1-Deodexed",
@@ -18,7 +44,7 @@
         },
         {
             "name": "Stock 3.70.651.1 Odexed",
-            "summary": "Rooted, zipaligned, busybox\nMuch harder to theme or tweak compared to deodexed",
+            "summary": "Rooted, zipaligned, busybox",
             "device": "supersonic",
             "product": "SupersonicStock",
             "modversion": "Supersonic-3.70.651.1-Odexed",
@@ -52,6 +78,14 @@
             "product": "SupersonicStock",
             "modversion": "Supersonic-3.26.651.6-Odexed",
             "url": "http://goo-inside.me/supersonic/stock/3.30.651.3-rooted-odexed-signed-xxbabiboi228xx.zip"
+        },
+        {
+            "name": "Combo Radio 2.15.00.05.02",
+            "summary": "Also updates WiMAX 27243, PRI_2.15_003. From the 4.22.651.2 OTA\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "device": "supersonic",
+            "product": "SupersonicCombo",
+            "modversion": "Supersonic-2.15.00.05.02-Combo",
+            "url": "http://goo-inside.me/supersonic/radios/EVO_Radio_2.15.00.05.02_WiMAX_27243_PRI_2.15_003.zip"
         },
         {
             "name": "Combo Radio 2.15.00.11.19",
