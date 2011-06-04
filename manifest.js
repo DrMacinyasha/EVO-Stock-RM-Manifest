@@ -4,15 +4,63 @@
     "donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KNWA22ZGW32VS",
     "roms": [
         {
+            "name": "Stock 4.22.651.2 Deodexed",
+            "summary": "Rooted, zipaligned, busybox\u000aNow with working Superuser!",
+            "device": "supersonic",
+            "product": "SupersonicStock",
+            "modversion": "Supersonic-4.22.651.2-Deodexed",
+            "screenshots": [
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-00.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-01.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-02.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-03.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-04.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-05.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-06.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-07.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-08.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-09.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-10.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-11.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-12.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-13.png"
+            ],
+            "url": "http://goo-inside.me/supersonic/stock/4.22.651.2-deodex-signed.zip"
+        },
+        {
+            "name": "Stock 4.22.651.2 Odexed",
+            "summary": "Rooted, busybox\u000aNow with working Superuser!",
+            "device": "supersonic",
+            "product": "SupersonicStock",
+            "modversion": "Supersonic-4.22.651.2-Odexed",
+            "screenshots": [
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-00.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-01.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-02.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-03.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-04.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-05.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-06.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-07.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-08.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-09.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-10.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-11.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-12.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004022651002-13.png"
+            ],
+            "url": "http://goo-inside.me/supersonic/stock/4.22.651.2-odex-signed.zip"
+        },
+        {
             "name": "Stock 3.70.651.1 Deodexed",
             "summary": "Rooted, zipaligned, busybox\u000aDeodexed is needed to flash themes, easier to tweak",
             "device": "supersonic",
             "product": "SupersonicStock",
             "modversion": "Supersonic-3.70.651.1-Deodexed",
             "screenshots": [
-                "http://goo-inside.me/supersonic/stock/screenshots/003070651001-1.png",
-                "http://goo-inside.me/supersonic/stock/screenshots/003070651001-2.png",
-                "http://goo-inside.me/supersonic/stock/screenshots/003070651001-3.png"
+                "http://goo-inside.me/supersonic/stock/screenshots/003070651001-01.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/003070651001-02.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/003070651001-03.png"
             ],
             "url": "http://goo-inside.me/supersonic/stock/3.70.651.1-deodex-signed.zip"
         },
@@ -23,9 +71,9 @@
             "product": "SupersonicStock",
             "modversion": "Supersonic-3.70.651.1-Odexed",
             "screenshots": [
-                "http://goo-inside.me/supersonic/stock/screenshots/003070651001-1.png",
-                "http://goo-inside.me/supersonic/stock/screenshots/003070651001-2.png",
-                "http://goo-inside.me/supersonic/stock/screenshots/003070651001-3.png"
+                "http://goo-inside.me/supersonic/stock/screenshots/003070651001-01.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/003070651001-02.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/003070651001-03.png"
             ],
             "url": "http://goo-inside.me/supersonic/stock/3.70.651.1-odex-signed.zip"
         },
