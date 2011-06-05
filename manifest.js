@@ -103,7 +103,7 @@
         },
         {
             "name": "Combo Radio 2.15.00.05.02",
-            "summary": "Also updates WiMAX 27243, PRI and NV 2.15_003.\u000aFrom the 4.22.651.2 OTA\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Also updates WiMAX 27243, PRI and NV 2.15_003\u000aFrom the 4.22.651.2 OTA\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicCombo",
             "modversion": "Supersonic-2.15.00.05.02-Combo",
@@ -111,7 +111,7 @@
         },
         {
             "name": "Combo Radio 2.15.00.11.19",
-            "summary": "Also updates WiMAX 27167 R01, PRI and NV 1.90_003.\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Also updates WiMAX 27167 R01, PRI and NV 1.90_003\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicCombo",
             "modversion": "Supersonic-2.15.00.11.19-Combo",
