@@ -103,7 +103,7 @@
         },
         {
             "name": "Combo Radio 2.15.00.05.02",
-            "summary": "Also updates WiMAX 27243, PRI and NV 2.15_003. From the 4.22.651.2 OTA\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Also updates WiMAX 27243, PRI and NV 2.15_003.\u000aFrom the 4.22.651.2 OTA\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicCombo",
             "modversion": "Supersonic-2.15.00.05.02-Combo",
@@ -111,7 +111,7 @@
         },
         {
             "name": "Combo Radio 2.15.00.11.19",
-            "summary": "Also updates WiMAX 27167 R01, PRI and NV 1.90_003. From Calkulin\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Also updates WiMAX 27167 R01, PRI and NV 1.90_003.\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicCombo",
             "modversion": "Supersonic-2.15.00.11.19-Combo",
@@ -119,7 +119,7 @@
         },
         {
             "name": "Radio 2.15.00.05.02",
-            "summary": "Can brick if used wrong! From the 4.22.651.2 OTA\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Can brick if used wrong!\u000aFrom the 4.22.651.2 OTA\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicRadio",
             "modversion": "Supersonic-2.15.00.05.02-Radio",
@@ -127,7 +127,7 @@
         },
         {
             "name": "Radio 2.15.00.11.19",
-            "summary": "Can brick if used wrong! From Calkulin\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicRadio",
             "modversion": "Supersonic-2.15.00.11.19-Radio",
@@ -135,7 +135,7 @@
         },
         {
             "name": "Radio 2.15.00.09.01",
-            "summary": "Can brick if used wrong! From Calkulin\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicRadio",
             "modversion": "Supersonic-2.15.99.09.01-Radio",
@@ -143,7 +143,7 @@
         },
         {
             "name": "Radio 2.15.00.07.28",
-            "summary": "Can brick if used wrong! From Calkulin\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicRadio",
             "modversion": "Supersonic-2.15.00.07.28-Radio",
@@ -151,7 +151,7 @@
         },
         {
             "name": "Radio 2.15.00.07.21",
-            "summary": "Can brick if used wrong! From Calkulin\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicRadio",
             "modversion": "Supersonic-2.15.00.07.21-Radio",
@@ -159,7 +159,7 @@
         },
         {
             "name": "Radio 2.05.00.06.10",
-            "summary": "Can brick if used wrong! From Calkulin\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicRadio",
             "modversion": "Supersonic-2.05.00.06.10-Radio",
@@ -167,7 +167,7 @@
         },
         {
             "name": "Radio 1.39.00.05.31",
-            "summary": "Can brick if used wrong! From Calkulin\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicRadio",
             "modversion": "Supersonic-1.39.00.05.31-Radio",
@@ -175,7 +175,7 @@
         },
         {
             "name": "Radio 1.36.00.04.02",
-            "summary": "Can brick if used wrong! From Calkulin\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicRadio",
             "modversion": "Supersonic-1.36.00.04.02-Radio",
@@ -183,7 +183,7 @@
         },
         {
             "name": "WiMAX 27243",
-            "summary": "Needs S-OFF! Can brick if used wrong! From the 4.22.651.2 OTA\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Needs S-OFF! Can brick if used wrong!\u000aFrom the 4.22.651.2 OTA\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicWiMAX",
             "modversion": "Supersonic-27243-WiMAX",
@@ -191,7 +191,7 @@
         },
         {
             "name": "WiMAX 27167 R01",
-            "summary": "Needs S-OFF! Can brick if used wrong! From Calkulin\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Needs S-OFF! Can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicWiMAX",
             "modversion": "Supersonic-27167.01-WiMAX",
@@ -199,7 +199,7 @@
         },
         {
             "name": "WiMAX 26023 R01",
-            "summary": "Needs S-OFF! Can brick if used wrong! From Calkulin\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Needs S-OFF! Can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicWiMAX",
             "modversion": "Supersonic-26023.01-WiMAX",
@@ -207,7 +207,7 @@
         },
         {
             "name": "WiMAX 25641 R01",
-            "summary": "Needs S-OFF! Can brick if used wrong! From Calkulin\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Needs S-OFF! Can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicWiMAX",
             "modversion": "Supersonic-25641.01-WiMAX",
@@ -215,7 +215,7 @@
         },
         {
             "name": "WiMAX 25043 R01",
-            "summary": "Needs S-OFF! Can brick if used wrong! From Calkulin\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Needs S-OFF! Can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicWiMAX",
             "modversion": "Supersonic-25043.01-WiMAX",
@@ -223,7 +223,7 @@
         },
         {
             "name": "WiMAX 24722",
-            "summary": "Needs S-OFF! Can brick if used wrong! From Calkulin\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Needs S-OFF! Can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicWiMAX",
             "modversion": "Supersonic-24722.00-WiMAX",
@@ -231,7 +231,7 @@
         },
         {
             "name": "PRI 2.15_003",
-            "summary": "Needs S-OFF! Can brick if used wrong! From the 4.22.651.2 OTA\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Needs S-OFF! Can brick if used wrong!\u000aFrom the 4.22.651.2 OTA\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicPRI",
             "modversion": "Supersonic-2.15.003-PRI",
@@ -239,7 +239,7 @@
         },
         {
             "name": "PRI 1.90_003",
-            "summary": "Needs S-OFF! Can brick if used wrong! From Calkulin\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Needs S-OFF! Can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicPRI",
             "modversion": "Supersonic-1.90.003-PRI",
@@ -247,7 +247,7 @@
         },
         {
             "name": "PRI 1.77_003",
-            "summary": "Needs S-OFF! Can brick if used wrong! From Calkulin\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Needs S-OFF! Can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicPRI",
             "modversion": "Supersonic-1.77.003-PRI",
@@ -255,7 +255,7 @@
         },
         {
             "name": "PRI 1.34_003",
-            "summary": "Needs S-OFF! Can brick if used wrong! From Calkulin\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Needs S-OFF! Can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicPRI",
             "modversion": "Supersonic-1.34.003-PRI",
@@ -263,7 +263,7 @@
         },
         {
             "name": "NV 2.15_003",
-            "summary": "Needs S-OFF! Can brick if used wrong! From the 4.22.651.2 OTA\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Needs S-OFF! Can brick if used wrong!\u000aFrom the 4.22.651.2 OTA\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicNV",
             "modversion": "Supersonic-2.15.003-NV",
@@ -271,7 +271,7 @@
         },
         {
             "name": "NV 1.90_003",
-            "summary": "Needs S-OFF! Can brick if used wrong! From Calkulin\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Needs S-OFF! Can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicNV",
             "modversion": "Supersonic-1.90.003-NV",
@@ -279,7 +279,7 @@
         },
         {
             "name": "NV 1.77_003",
-            "summary": "Needs S-OFF! Can brick if used wrong! From Calkulin\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Needs S-OFF! Can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicNV",
             "modversion": "Supersonic-1.77.003-NV",
@@ -287,7 +287,7 @@
         },
         {
             "name": "NV 1.71_003",
-            "summary": "Needs S-OFF! Can brick if used wrong! From Calkulin\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Needs S-OFF! Can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicNV",
             "modversion": "Supersonic-1.71.003-NV",
@@ -295,7 +295,7 @@
         },
         {
             "name": "NV 1.40_003",
-            "summary": "Needs S-OFF! Can brick if used wrong! From Calkulin\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Needs S-OFF! Can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicNV",
             "modversion": "Supersonic-1.40.003-NV",
@@ -303,7 +303,7 @@
         },
         {
             "name": "ENG Hboot 0.76.2000",
-            "summary": "Supports Fastboot, can brick if used wrong! From Calkulin\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Supports Fastboot, can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicHboot",
             "modversion": "Supersonic-0.76.2000-HBOOT",
@@ -311,7 +311,7 @@
         },
         {
             "name": "Hboot 2.10.0001",
-            "summary": "Can brick if used wrong! From Calkulin\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicHboot",
             "modversion": "Supersonic-2.10.0001-HBOOT",
@@ -319,7 +319,7 @@
         },
         {
             "name": "Hboot 2.02.0000",
-            "summary": "Can brick if used wrong! From Calkulin\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicHboot",
             "modversion": "Supersonic-2.02.0000-HBOOT",
@@ -327,7 +327,7 @@
         },
         {
             "name": "Hboot 0.97.0000",
-            "summary": "Can brick if used wrong! From Calkulin\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicHboot",
             "modversion": "Supersonic-0.97.0000-HBOOT",
@@ -335,7 +335,7 @@
         },
         {
             "name": "Hboot 0.93.0000",
-            "summary": "Can brick if used wrong! From Calkulin\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicHboot",
             "modversion": "Supersonic-0.93.0000-HBOOT",
