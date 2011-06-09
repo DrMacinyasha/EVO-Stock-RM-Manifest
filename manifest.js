@@ -25,7 +25,7 @@
                 "http://goo-inside.me/supersonic/stock/screenshots/004022651002/12.png",
                 "http://goo-inside.me/supersonic/stock/screenshots/004022651002/13.png"
             ],
-            "url": "http://goo-inside.me/supersonic/stock/4.22.651.2-deodex-signed.zip"
+            "url": "http://goo-inside.me/supersonic/stock/4.22.651.2-deodex-20110608-signed.zip"
         },
         {
             "name": "Stock 4.22.651.2 Odexed",
@@ -49,7 +49,7 @@
                 "http://goo-inside.me/supersonic/stock/screenshots/004022651002/12.png",
                 "http://goo-inside.me/supersonic/stock/screenshots/004022651002/13.png"
             ],
-            "url": "http://goo-inside.me/supersonic/stock/4.22.651.2-odex-signed.zip"
+            "url": "http://goo-inside.me/supersonic/stock/4.22.651.2-odex-20110608-signed.zip"
         },
         {
             "name": "Stock 3.70.651.1 Deodexed",
