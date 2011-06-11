@@ -5,10 +5,10 @@
     "roms": [
         {
             "name": "Stock 4.22.651.2 Deodexed",
-            "summary": "Rooted, zipaligned, busybox\u000aNow with working Superuser and 802.11n!",
+            "summary": "Root, zipalign, busybox\u000aWith working 802.11n and Superuser 2.3.6.2!",
             "device": "supersonic",
             "product": "SupersonicStock",
-            "modversion": "Supersonic-4.22.651.2-Deodexed",
+            "modversion": "Supersonic-4.22.651.2-Deodexed-20110610",
             "screenshots": [
                 "http://goo-inside.me/supersonic/stock/screenshots/004022651002/00.png",
                 "http://goo-inside.me/supersonic/stock/screenshots/004022651002/01.png",
@@ -25,14 +25,14 @@
                 "http://goo-inside.me/supersonic/stock/screenshots/004022651002/12.png",
                 "http://goo-inside.me/supersonic/stock/screenshots/004022651002/13.png"
             ],
-            "url": "http://goo-inside.me/supersonic/stock/4.22.651.2-deodex-20110608-signed.zip"
+            "url": "http://goo-inside.me/supersonic/stock/4.22.651.2-deodex-20110610-signed.zip"
         },
         {
             "name": "Stock 4.22.651.2 Odexed",
-            "summary": "Rooted, busybox\u000aNow with working Superuser and 802.11n!",
+            "summary": "Root, busybox\u000aWith working 802.11n and Superuser 2.3.6.2!",
             "device": "supersonic",
             "product": "SupersonicStock",
-            "modversion": "Supersonic-4.22.651.2-Odexed",
+            "modversion": "Supersonic-4.22.651.2-Odexed-20110610",
             "screenshots": [
                 "http://goo-inside.me/supersonic/stock/screenshots/004022651002/00.png",
                 "http://goo-inside.me/supersonic/stock/screenshots/004022651002/01.png",
@@ -49,7 +49,7 @@
                 "http://goo-inside.me/supersonic/stock/screenshots/004022651002/12.png",
                 "http://goo-inside.me/supersonic/stock/screenshots/004022651002/13.png"
             ],
-            "url": "http://goo-inside.me/supersonic/stock/4.22.651.2-odex-20110608-signed.zip"
+            "url": "http://goo-inside.me/supersonic/stock/4.22.651.2-odex-20110610-signed.zip"
         },
         {
             "name": "Stock 3.70.651.1 Deodexed",
