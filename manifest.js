@@ -5,7 +5,7 @@
     "roms": [
         {
             "name": "4.22.651.2 Deodexed 6/10",
-            "summary": "Root, zipalign, busybox\u000aWorking 802.11n and Superuser 2.3.6.2",
+            "summary": "Rooted, zipalign, busybox\u000aWorking 802.11n and Superuser 2.3.6.2",
             "device": "supersonic",
             "product": "SupersonicStock",
             "modversion": "Supersonic-4.22.651.2-Deodexed-20110610",
@@ -29,7 +29,7 @@
         },
         {
             "name": "4.22.651.2 Odexed 6/10",
-            "summary": "Root, busybox\u000aWorking 802.11n and Superuser 2.3.6.2",
+            "summary": "Rooted, busybox\u000aWorking 802.11n and Superuser 2.3.6.2",
             "device": "supersonic",
             "product": "SupersonicStock",
             "modversion": "Supersonic-4.22.651.2-Odexed-20110610",
