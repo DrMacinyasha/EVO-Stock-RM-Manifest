@@ -5,7 +5,7 @@
     "roms": [
         {
             "name": "4.22.651.2 Deodexed 6/10",
-            "summary": "Root, zipalign, busybox\u000aWith working 802.11n and Superuser 2.3.6.2!",
+            "summary": "Root, zipalign, busybox\u000aWorking 802.11n and Superuser 2.3.6.2",
             "device": "supersonic",
             "product": "SupersonicStock",
             "modversion": "Supersonic-4.22.651.2-Deodexed-20110610",
@@ -29,7 +29,7 @@
         },
         {
             "name": "4.22.651.2 Odexed 6/10",
-            "summary": "Root, busybox\u000aWith working 802.11n and Superuser 2.3.6.2!",
+            "summary": "Root, busybox\u000aWorking 802.11n and Superuser 2.3.6.2",
             "device": "supersonic",
             "product": "SupersonicStock",
             "modversion": "Supersonic-4.22.651.2-Odexed-20110610",
@@ -53,7 +53,7 @@
         },
         {
             "name": "4.22.651.2 Deodexed 6/8",
-            "summary": "Root, zipalign, busybox\u000aWorking 802.11n and Superuser 2.3.6",
+            "summary": "Root, zipalign, busybox\u000aWorking 802.11n, fixed Superuser 2.3.6.0",
             "device": "supersonic",
             "product": "SupersonicStock",
             "modversion": "Supersonic-4.22.651.2-Deodexed",
@@ -77,7 +77,7 @@
         },
         {
             "name": "4.22.651.2 Odexed 6/8",
-            "summary": "Root, busybox\u000aWorking 802.11n and Superuser 2.3.6",
+            "summary": "Root, busybox\u000aWorking 802.11n, fixed Superuser 2.3.6.0",
             "device": "supersonic",
             "product": "SupersonicStock",
             "modversion": "Supersonic-4.22.651.2-Odexed",
@@ -127,7 +127,7 @@
         },
         {
             "name": "3.30.651.3 Deodexed",
-            "summary": "Rooted, zipaligned, busybox, from xxbabiboi228xx\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Rooted, zipaligned, busybox\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicStock",
             "modversion": "Supersonic-3.30.651.3-Deodexed",
@@ -135,7 +135,7 @@
         },
         {
             "name": "3.30.651.3 Odexed",
-            "summary": "Rooted, zipaligned, busybox, from xxbabiboi228xx\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Rooted, zipaligned, busybox\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicStock",
             "modversion": "Supersonic-3.30.651.3-Odexed",
@@ -143,7 +143,7 @@
         },
         {
             "name": "3.26.651.6 Odexed",
-            "summary": "Rooted, from netarchy\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Rooted\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicStock",
             "modversion": "Supersonic-3.26.651.6-Odexed",
@@ -167,7 +167,7 @@
         },
         {
             "name": "Combo Radio 2.15.00.11.19",
-            "summary": "Also updates WiMAX 27167 R01, PRI and NV 1.90_003\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
+            "summary": "Also updates WiMAX 27167, PRI and NV 1.90_003\u000aFrom the 3.70.651.1 OTA\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicCombo",
             "modversion": "Supersonic-2.15.00.11.19-Combo",
