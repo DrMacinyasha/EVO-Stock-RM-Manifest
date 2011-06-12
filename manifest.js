@@ -5,7 +5,7 @@
     "roms": [
         {
             "name": "4.22.651.2 Deodexed 6/10",
-            "summary": "Rooted, zipalign, busybox\u000aWorking 802.11n and Superuser 2.3.6.2",
+            "summary": "Rooted, zipaligned, busybox\u000aWorking 802.11n and Superuser 2.3.6.2",
             "device": "supersonic",
             "product": "SupersonicStock",
             "modversion": "Supersonic-4.22.651.2-Deodexed-20110610",
@@ -53,7 +53,7 @@
         },
         {
             "name": "4.22.651.2 Deodexed 6/8",
-            "summary": "Root, zipalign, busybox\u000aWorking 802.11n, fixed Superuser 2.3.6.0",
+            "summary": "Rooted, zipaligned, busybox\u000aWorking 802.11n, fixed Superuser 2.3.6.0",
             "device": "supersonic",
             "product": "SupersonicStock",
             "modversion": "Supersonic-4.22.651.2-Deodexed",
@@ -77,7 +77,7 @@
         },
         {
             "name": "4.22.651.2 Odexed 6/8",
-            "summary": "Root, busybox\u000aWorking 802.11n, fixed Superuser 2.3.6.0",
+            "summary": "Rooted, busybox\u000aWorking 802.11n, fixed Superuser 2.3.6.0",
             "device": "supersonic",
             "product": "SupersonicStock",
             "modversion": "Supersonic-4.22.651.2-Odexed",
@@ -246,7 +246,7 @@
             "url": "http://goo-inside.me/supersonic/radios/EVO_WiMAX-27243_signed.zip"
         },
         {
-            "name": "WiMAX 27167 R01",
+            "name": "WiMAX 27167",
             "summary": "Needs S-OFF! Can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicWiMAX",
@@ -254,7 +254,7 @@
             "url": "http://goo-inside.me/supersonic/radios/EVO_WiMAX_27167_R01.zip"
         },
         {
-            "name": "WiMAX 26023 R01",
+            "name": "WiMAX 26023",
             "summary": "Needs S-OFF! Can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicWiMAX",
@@ -262,7 +262,7 @@
             "url": "http://goo-inside.me/supersonic/radios/EVO_WiMAX_26023_R01.zip"
         },
         {
-            "name": "WiMAX 25641 R01",
+            "name": "WiMAX 25641",
             "summary": "Needs S-OFF! Can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicWiMAX",
@@ -270,7 +270,7 @@
             "url": "http://goo-inside.me/supersonic/radios/EVO_WiMAX_25641_R01.zip"
         },
         {
-            "name": "WiMAX 25043 R01",
+            "name": "WiMAX 25043",
             "summary": "Needs S-OFF! Can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicWiMAX",
@@ -358,7 +358,7 @@
             "url": "http://goo-inside.me/supersonic/radios/EVO_NV_1.40_003.zip"
         },
         {
-            "name": "ENG Hboot 0.76.2000",
+            "name": "ENG HBOOT 0.76.2000",
             "summary": "Supports Fastboot, can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicHboot",
@@ -366,7 +366,7 @@
             "url": "http://goo-inside.me/supersonic/hboot/EVO_HBoot_0.76.2000.zip"
         },
         {
-            "name": "Hboot 2.10.0001",
+            "name": "HBOOT 2.10.0001",
             "summary": "Can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicHboot",
@@ -374,7 +374,7 @@
             "url": "http://goo-inside.me/supersonic/hboot/EVO_HBoot_2.10.0001.zip"
         },
         {
-            "name": "Hboot 2.02.0000",
+            "name": "HBOOT 2.02.0000",
             "summary": "Can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicHboot",
@@ -382,7 +382,7 @@
             "url": "http://goo-inside.me/supersonic/hboot/EVO_HBoot_2.02.0000.zip"
         },
         {
-            "name": "Hboot 0.97.0000",
+            "name": "HBOOT 0.97.0000",
             "summary": "Can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicHboot",
@@ -390,7 +390,7 @@
             "url": "http://goo-inside.me/supersonic/hboot/EVO_HBoot_0.97.0000.zip"
         },
         {
-            "name": "Hboot 0.93.0000",
+            "name": "HBOOT 0.93.0000",
             "summary": "Can brick if used wrong!\u000aDowngrade to ClockworkMod 2.5.0.7 to flash",
             "device": "supersonic",
             "product": "SupersonicHboot",
