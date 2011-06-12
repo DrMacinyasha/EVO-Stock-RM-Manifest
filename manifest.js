@@ -4,7 +4,7 @@
     "donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KNWA22ZGW32VS",
     "roms": [
         {
-            "name": "4.22.651.2 Deodexed, June 10",
+            "name": "4.22.651.2 Deodexed 6/10",
             "summary": "Root, zipalign, busybox\u000aWith working 802.11n and Superuser 2.3.6.2!",
             "device": "supersonic",
             "product": "SupersonicStock",
@@ -28,7 +28,7 @@
             "url": "http://goo-inside.me/supersonic/stock/4.22.651.2-deodex-20110610-signed.zip"
         },
         {
-            "name": "4.22.651.2 Odexed, June 10",
+            "name": "4.22.651.2 Odexed 6/10",
             "summary": "Root, busybox\u000aWith working 802.11n and Superuser 2.3.6.2!",
             "device": "supersonic",
             "product": "SupersonicStock",
@@ -52,7 +52,7 @@
             "url": "http://goo-inside.me/supersonic/stock/4.22.651.2-odex-20110610-signed.zip"
         },
         {
-            "name": "4.22.651.2 Deodexed, June 8",
+            "name": "4.22.651.2 Deodexed 6/8",
             "summary": "Root, zipalign, busybox\u000aWorking 802.11n and Superuser 2.3.6",
             "device": "supersonic",
             "product": "SupersonicStock",
@@ -76,7 +76,7 @@
             "url": "http://goo-inside.me/supersonic/stock/4.22.651.2-deodex-20110608-signed.zip"
         },
         {
-            "name": "4.22.651.2 Odexed, June 8",
+            "name": "4.22.651.2 Odexed 6/8",
             "summary": "Root, busybox\u000aWorking 802.11n and Superuser 2.3.6",
             "device": "supersonic",
             "product": "SupersonicStock",
@@ -101,7 +101,7 @@
         },
         {
             "name": "3.70.651.1 Deodexed",
-            "summary": "Rooted, zipaligned, busybox\u000aDeodexed is needed to flash themes, easier to tweak",
+            "summary": "Rooted, zipaligned, busybox",
             "device": "supersonic",
             "product": "SupersonicStock",
             "modversion": "Supersonic-3.70.651.1-Deodexed",
@@ -114,7 +114,7 @@
         },
         {
             "name": "3.70.651.1 Odexed",
-            "summary": "Rooted, zipaligned, busybox",
+            "summary": "Rooted, busybox",
             "device": "supersonic",
             "product": "SupersonicStock",
             "modversion": "Supersonic-3.70.651.1-Odexed",
@@ -151,7 +151,7 @@
         },
         {
             "name": "4.22.651.2 802.11n Patch",
-            "summary": "Re-enables 802.11n on 4.22.651.2 ROMs\u000aThe above 4.22.651.2 ROMs already have this patch in them",
+            "summary": "Re-enables 802.11n on most 4.22.651.2 ROMs. The above ROMs already have this patch in them.",
             "device": "supersonic",
             "product": "4-22-651-2-802-11n-patch",
             "modversion": "Supersonic-4.22.651.2-802.11n-20110610",
