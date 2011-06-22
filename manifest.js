@@ -1,8 +1,46 @@
 {
     "version": "1",
-    "homepage": "http://goo-inside.me/supersonic/",
+    "homepage": "http://goo-inside.me/supersonic",
     "donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KNWA22ZGW32VS",
     "roms": [
+        {
+            "name": "4.24.651.1 Deodexed 6/21",
+            "summary": "Rooted, zipaligned, busybox",
+            "device": "supersonic",
+            "product": "SupersonicStock",
+            "modversion": "Supersonic-4.24.651.2-Deodex-20110621",
+            "screenshots": [
+                "http://goo-inside.me/supersonic/stock/screenshots/004024651001/01.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004024651001/02.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004024651001/03.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004024651001/04.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004024651001/05.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004024651001/06.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004024651001/07.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004024651001/08.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004024651001/09.png"
+            ],
+            "url": "http://goo-inside.me/supersonic/stock/4.24.651.1-deodex-20110621-signed.zip"
+        },
+        {
+            "name": "4.24.651.1 Odexed 6/21",
+            "summary": "Rooted, busybox",
+            "device": "supersonic",
+            "product": "SupersonicStock",
+            "modversion": "Supersonic-4.24.651.2-Odex-20110621",
+            "screenshots": [
+                "http://goo-inside.me/supersonic/stock/screenshots/004024651001/01.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004024651001/02.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004024651001/03.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004024651001/04.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004024651001/05.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004024651001/06.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004024651001/07.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004024651001/08.png",
+                "http://goo-inside.me/supersonic/stock/screenshots/004024651001/09.png"
+            ],
+            "url": "http://goo-inside.me/supersonic/stock/4.24.651.1-odex-20110621-signed.zip"
+        },
         {
             "name": "4.22.651.2 Deodexed 6/10",
             "summary": "Rooted, zipaligned, busybox\u000aWorking 802.11n and Superuser 2.3.6.2",
