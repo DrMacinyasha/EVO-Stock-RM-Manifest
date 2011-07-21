@@ -394,22 +394,6 @@
             "product": "SupersonicHboot",
             "modversion": "Supersonic-0.93.0000-HBOOT",
             "url": "http://goo-inside.me/supersonic/hboot/EVO_HBoot_0.93.0000.zip"
-        },
-        {
-            "name": "TESTIFICATION - 301",
-            "summary": "Please don't try to load this.",
-            "device": "supersonic",
-            "product": "SupersonicTestification",
-            "modversion": "Supersonic-301-Testification",
-            "url": "http://goo-inside.me/301"
-        },
-        {
-            "name": "TESTIFICATION - 302",
-            "summary": "Please don't try to load this.",
-            "device": "supersonic",
-            "product": "SupersonicTestification",
-            "modversion": "Supersonic-302-Testification",
-            "url": "http://goo-inside.me/302"
         }
     ]
 }
