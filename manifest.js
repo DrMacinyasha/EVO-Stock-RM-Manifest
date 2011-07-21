@@ -401,7 +401,7 @@
             "device": "supersonic",
             "product": "SupersonicTestification",
             "modversion": "Supersonic-301-Testification",
-            "url": "http://dev.goo-inside.me/301"
+            "url": "http://goo-inside.me/301"
         },
         {
             "name": "TESTIFICATION - 302",
@@ -409,7 +409,7 @@
             "device": "supersonic",
             "product": "SupersonicTestification",
             "modversion": "Supersonic-302-Testification",
-            "url": "http://dev.goo-inside.me/302"
+            "url": "http://goo-inside.me/302"
         }
     ]
 }
