@@ -394,14 +394,6 @@
             "product": "SupersonicHboot",
             "modversion": "Supersonic-0.93.0000-HBOOT",
             "url": "http://goo-inside.me/supersonic/hboot/EVO_HBoot_0.93.0000.zip"
-        },
-        {
-            "name": "Testification",
-            "summary": "No Soup For You",
-            "device": "supersonic",
-            "product": "SupersonicTestification",
-            "modversion": "Supersonic-302-Testification",
-            "url": "http://goo-inside.me/test"
         }
     ]
 }
