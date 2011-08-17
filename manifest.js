@@ -161,7 +161,7 @@
             "device": "supersonic",
             "product": "SupersonicCombo",
             "modversion": "Supersonic-2.15.00.05.02-Combo",
-            "url": "http://goo-inside.me/supersonic/radios/combo/2.15.00.05.02/update-signed.zip"
+            "url": "http://goo-inside.me/supersonic/radios/combo/2.15.00.05.02/update.zip"
         },
         {
             "name": "Combo Radio 2.15.00.11.19",
@@ -169,7 +169,7 @@
             "device": "supersonic",
             "product": "SupersonicCombo",
             "modversion": "Supersonic-2.15.00.11.19-Combo",
-            "url": "http://goo-inside.me/supersonic/radios/combo/2.15.00.11.19/update-signed.zip"
+            "url": "http://goo-inside.me/supersonic/radios/combo/2.15.00.11.19/update.zip"
         },
         {
             "name": "Radio 2.15.00.05.02",
@@ -177,7 +177,7 @@
             "device": "supersonic",
             "product": "SupersonicRadio",
             "modversion": "Supersonic-2.15.00.05.02-Radio",
-            "url": "http://goo-inside.me/supersonic/radios/radio/2.15.00.05.02/update-signed.zip"
+            "url": "http://goo-inside.me/supersonic/radios/radio/2.15.00.05.02/update.zip"
         },
         {
             "name": "Radio 2.15.00.11.19",
@@ -185,7 +185,7 @@
             "device": "supersonic",
             "product": "SupersonicRadio",
             "modversion": "Supersonic-2.15.00.11.19-Radio",
-            "url": "http://goo-inside.me/supersonic/radios/radio/2.15.00.11.19/update-signed.zip"
+            "url": "http://goo-inside.me/supersonic/radios/radio/2.15.00.11.19/update.zip"
         },
         {
             "name": "Radio 2.15.00.09.01",
@@ -193,7 +193,7 @@
             "device": "supersonic",
             "product": "SupersonicRadio",
             "modversion": "Supersonic-2.15.99.09.01-Radio",
-            "url": "http://goo-inside.me/supersonic/radios/radio/2.15.00.09.01/update-signed.zip"
+            "url": "http://goo-inside.me/supersonic/radios/radio/2.15.00.09.01/update.zip"
         },
         {
             "name": "Radio 2.15.00.07.28",
@@ -201,7 +201,7 @@
             "device": "supersonic",
             "product": "SupersonicRadio",
             "modversion": "Supersonic-2.15.00.07.28-Radio",
-            "url": "http://goo-inside.me/supersonic/radios/radio/2.15.00.07.28/update-signed.zip"
+            "url": "http://goo-inside.me/supersonic/radios/radio/2.15.00.07.28/update.zip"
         },
         {
             "name": "Radio 2.15.00.07.21",
@@ -209,7 +209,7 @@
             "device": "supersonic",
             "product": "SupersonicRadio",
             "modversion": "Supersonic-2.15.00.07.21-Radio",
-            "url": "http://goo-inside.me/supersonic/radios/radio/2.15.00.07.21/update-signed.zip"
+            "url": "http://goo-inside.me/supersonic/radios/radio/2.15.00.07.21/update.zip"
         },
         {
             "name": "Radio 2.05.00.06.10",
@@ -217,7 +217,7 @@
             "device": "supersonic",
             "product": "SupersonicRadio",
             "modversion": "Supersonic-2.05.00.06.10-Radio",
-            "url": "http://goo-inside.me/supersonic/radios/radio/2.05.00.06.10/update-signed.zip"
+            "url": "http://goo-inside.me/supersonic/radios/radio/2.05.00.06.10/update.zip"
         },
         {
             "name": "Radio 1.39.00.05.31",
@@ -225,7 +225,7 @@
             "device": "supersonic",
             "product": "SupersonicRadio",
             "modversion": "Supersonic-1.39.00.05.31-Radio",
-            "url": "http://goo-inside.me/supersonic/radios/radio/1.39.00.05.31/update-signed.zip"
+            "url": "http://goo-inside.me/supersonic/radios/radio/1.39.00.05.31/update.zip"
         },
         {
             "name": "Radio 1.36.00.04.26",
@@ -233,7 +233,7 @@
             "device": "supersonic",
             "product": "SupersonicRadio",
             "modversion": "Supersonic-1.36.00.04.26-Radio",
-            "url": "http://goo-inside.me/supersonic/radios/radio/1.36.00.04.26/update-signed.zip"
+            "url": "http://goo-inside.me/supersonic/radios/radio/1.36.00.04.26/update.zip"
         },
         {
             "name": "Radio 1.36.00.04.02",
@@ -241,7 +241,7 @@
             "device": "supersonic",
             "product": "SupersonicRadio",
             "modversion": "Supersonic-1.36.00.04.02-Radio",
-            "url": "http://goo-inside.me/supersonic/radios/radio/1.36.00.04.02/update-signed.zip"
+            "url": "http://goo-inside.me/supersonic/radios/radio/1.36.00.04.02/update.zip"
         },
         {
             "name": "WiMAX 27243",
@@ -249,7 +249,7 @@
             "device": "supersonic",
             "product": "SupersonicWiMAX",
             "modversion": "Supersonic-27243-WiMAX",
-            "url": "http://goo-inside.me/supersonic/radios/wimax/27243/update-signed.zip"
+            "url": "http://goo-inside.me/supersonic/radios/wimax/27243/update.zip"
         },
         {
             "name": "WiMAX 27167",
@@ -257,7 +257,7 @@
             "device": "supersonic",
             "product": "SupersonicWiMAX",
             "modversion": "Supersonic-27167.01-WiMAX",
-            "url": "http://goo-inside.me/supersonic/radios/wimax/27167/update-signed.zip"
+            "url": "http://goo-inside.me/supersonic/radios/wimax/27167/update.zip"
         },
         {
             "name": "WiMAX 26023",
@@ -265,7 +265,7 @@
             "device": "supersonic",
             "product": "SupersonicWiMAX",
             "modversion": "Supersonic-26023.01-WiMAX",
-            "url": "http://goo-inside.me/supersonic/radios/wimax/26023/update-signed.zip"
+            "url": "http://goo-inside.me/supersonic/radios/wimax/26023/update.zip"
         },
         {
             "name": "WiMAX 25641",
@@ -273,7 +273,7 @@
             "device": "supersonic",
             "product": "SupersonicWiMAX",
             "modversion": "Supersonic-25641.01-WiMAX",
-            "url": "http://goo-inside.me/supersonic/radios/wimax/25641/update-signed.zip"
+            "url": "http://goo-inside.me/supersonic/radios/wimax/25641/update.zip"
         },
         {
             "name": "WiMAX 25043",
@@ -281,7 +281,7 @@
             "device": "supersonic",
             "product": "SupersonicWiMAX",
             "modversion": "Supersonic-25043.01-WiMAX",
-            "url": "http://goo-inside.me/supersonic/radios/wimax/25043/update-signed.zip"
+            "url": "http://goo-inside.me/supersonic/radios/wimax/25043/update.zip"
         },
         {
             "name": "WiMAX 24722",
@@ -289,7 +289,7 @@
             "device": "supersonic",
             "product": "SupersonicWiMAX",
             "modversion": "Supersonic-24722.00-WiMAX",
-            "url": "http://goo-inside.me/supersonic/radios/wimax/24722/update-signed.zip"
+            "url": "http://goo-inside.me/supersonic/radios/wimax/24722/update.zip"
         },
         {
             "name": "PRI 2.15_003",
@@ -297,7 +297,7 @@
             "device": "supersonic",
             "product": "SupersonicPRI",
             "modversion": "Supersonic-2.15.003-PRI",
-            "url": "http://goo-inside.me/supersonic/radios/pri/2.15/update-signed.zip"
+            "url": "http://goo-inside.me/supersonic/radios/pri/2.15/update.zip"
         },
         {
             "name": "PRI 1.90_003",
@@ -305,7 +305,7 @@
             "device": "supersonic",
             "product": "SupersonicPRI",
             "modversion": "Supersonic-1.90.003-PRI",
-            "url": "http://goo-inside.me/supersonic/radios/pri/1.90/update-signed.zip"
+            "url": "http://goo-inside.me/supersonic/radios/pri/1.90/update.zip"
         },
         {
             "name": "PRI 1.77_003",
@@ -313,7 +313,7 @@
             "device": "supersonic",
             "product": "SupersonicPRI",
             "modversion": "Supersonic-1.77.003-PRI",
-            "url": "http://goo-inside.me/supersonic/radios/pri/1.77/update-signed.zip"
+            "url": "http://goo-inside.me/supersonic/radios/pri/1.77/update.zip"
         },
         {
             "name": "PRI 1.34_003",
@@ -321,7 +321,7 @@
             "device": "supersonic",
             "product": "SupersonicPRI",
             "modversion": "Supersonic-1.34.003-PRI",
-            "url": "http://goo-inside.me/supersonic/radios/pri/1.34/update-signed.zip"
+            "url": "http://goo-inside.me/supersonic/radios/pri/1.34/update.zip"
         },
         {
             "name": "NV 2.15_003",
@@ -329,7 +329,7 @@
             "device": "supersonic",
             "product": "SupersonicNV",
             "modversion": "Supersonic-2.15.003-NV",
-            "url": "http://goo-inside.me/supersonic/radios/nv/2.15/update-signed.zip"
+            "url": "http://goo-inside.me/supersonic/radios/nv/2.15/update.zip"
         },
         {
             "name": "NV 1.90_003",
@@ -345,7 +345,7 @@
             "device": "supersonic",
             "product": "SupersonicNV",
             "modversion": "Supersonic-1.77.003-NV",
-            "url": "http://goo-inside.me/supersonic/radios/nv/1.77/update-signed.zip"
+            "url": "http://goo-inside.me/supersonic/radios/nv/1.77/update.zip"
         },
         {
             "name": "NV 1.71_003",
@@ -353,7 +353,7 @@
             "device": "supersonic",
             "product": "SupersonicNV",
             "modversion": "Supersonic-1.71.003-NV",
-            "url": "http://goo-inside.me/supersonic/radios/nv/1.71/update-signed.zip"
+            "url": "http://goo-inside.me/supersonic/radios/nv/1.71/update.zip"
         },
         {
             "name": "NV 1.40_003",
@@ -361,7 +361,7 @@
             "device": "supersonic",
             "product": "SupersonicNV",
             "modversion": "Supersonic-1.40.003-NV",
-            "url": "http://goo-inside.me/supersonic/radios/nv/1.40/update-signed.zip"
+            "url": "http://goo-inside.me/supersonic/radios/nv/1.40/update.zip"
         },
         {
             "name": "ENG HBOOT 0.76.2000",
